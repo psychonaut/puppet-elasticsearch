@@ -1,4 +1,4 @@
-# frozen_string_literal: true
+# frozen_string_literal: false
 
 Puppet::Type.type(:elasticsearch_keystore).provide(
   :elasticsearch_keystore
